@@ -2,6 +2,6 @@
 
 module CowboyHat
   class Routes < Hanami::Routes
-    # Add your routes here. See https://guides.hanamirb.org/routing/overview/ for details.
+    root { "Here's the app, Richard!" }
   end
 end
